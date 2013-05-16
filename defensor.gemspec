@@ -5,7 +5,7 @@ require 'defensor'
 
 Gem::Specification.new do |spec|
   spec.name          = "defensor"
-  spec.version       = Defensor::VERSION
+  spec.version       = Defensor::Version::VERSION
   spec.authors       = ["Oleg Bovykin"]
   spec.email         = ["oleg.bovykin@gmail.com"]
   spec.description   = %q{Unofficial Ruby library for Defensio 2.0}
